@@ -1,0 +1,116 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adam Sandler</title>
+
+
+    <style>
+        *{
+            margin:0;
+            padding:0;
+            box-sizing:border-box;
+        }
+
+
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+            background:#f4f4f4;
+            color:#333;
+            display:flex;
+            justify-content:center;
+            padding:40px;
+        }
+
+
+        .container{
+            max-width:800px;
+            background:#fff;
+            padding:40px;
+            border-radius:10px;
+            box-shadow:0 5px 15px rgba(0,0,0,.15);
+        }
+
+
+        h1{
+            text-align:center;
+            margin-bottom:30px;
+            color:#222;
+            letter-spacing:2px;
+        }
+
+
+        p{
+            text-align:justify;
+            line-height:1.8;
+            margin-bottom:18px;
+            font-size:18px;
+        }
+
+
+        .link{
+            margin-top:25px;
+            font-weight:bold;
+        }
+
+
+        a{
+            color:#0066cc;
+            text-decoration:none;
+        }
+
+
+        a:hover{
+            text-decoration:underline;
+        }
+    </style>
+</head>
+<body>
+
+
+<div class="container">
+
+
+    <h1>ADAM SANDLER</h1>
+
+
+    <p>
+        Adam Sandler é um dos atores mais populares e queridos do cinema
+        mundial. Ele conquistou o público nos anos noventa com seu jeito
+        brincalhão e de bom coração. Seus filmes de comédia viraram grandes
+        clássicos que as pessoas adoram assistir para relaxar no final de
+        semana.
+    </p>
+
+
+    <p>
+        O sucesso dele vem de sua simplicidade e de sua lealdade. Ele criou
+        a própria produtora de cinema e sempre contrata seus melhores amigos
+        da vida real para trabalhar nos filmes. Além disso, ele é conhecido
+        por usar roupas muito casuais e largas em qualquer evento de
+        Hollywood.
+    </p>
+
+
+    <p>
+        Apesar de ser famoso pelas piadas, ele também já provou ser um
+        excelente ator de dramas sérios e elogiados pela crítica. Hoje em
+        dia, ele continua batendo recordes de audiência com suas produções
+        divertidas feitas direto para a Netflix.
+    </p>
+
+
+    <p class="link">
+        Acesse o link para mais informações:
+        <a href="https://pt.wikipedia.org/wiki/Adam_Sandler" target="_blank">
+            Wikipédia sobre Adam Sandler
+        </a>
+    </p>
+
+
+</div>
+
+
+</body>
+</html>
